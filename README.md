@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mason McGregor 👋
 
-<!--
-**masonmcgregor/masonmcgregor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering student with an interest in power systems, data analysis, and engineering automation.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Historical Grid Data Engineering Project
+- Processed and analyzed approximately 10 years of hourly electrical grid operating data
+- Built automated parsing, cleaning, and reporting workflows
+- Developed an interactive project website
+
+🌐 Portfolio:
+WIP
+
+## Interests
+
+- Power Systems
+- Grid Operations
+- Python
+- Data Analytics
+- Engineering Automation
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/mason-mcgregor-97270738a/
+- WIP
